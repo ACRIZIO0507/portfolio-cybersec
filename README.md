@@ -5,7 +5,7 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontrará projetos, estudos e exper
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de Cibersegurança com grande interesse em segurança ofensiva, análise forense, investigação digital e exploração de vulnerabilidades. Tenho uma mente inquieta e criativa, apaixonada por tecnologia, ciência, lógica e liberdade.
 
