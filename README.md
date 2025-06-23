@@ -15,7 +15,7 @@ Estou sempre buscando aprender e evoluir, com foco em construir um futuro na ár
 
 ## 🧠 Habilidades Técnicas
 
-- **Linguagens**: Python, C, C++, SQL, Java, HTML, CSS, JavaScript
+- **Linguagens**: Python, SQL, Java, HTML
 - **Ferramentas de Segurança**: Nmap, Wireshark, Burp Suite, Metasploit, John the Ripper
 - **Conhecimentos**: Pentest básico, análise de rede, criptografia, engenharia social, hardening de sistemas
 - **Sistemas Operacionais**: Linux (Kali, Ubuntu), Windows
@@ -35,10 +35,9 @@ Estou sempre buscando aprender e evoluir, com foco em construir um futuro na ár
 
 ## 📚 Cursos e Formação
 
-- 💻 Curso de Tecnologia da Informação – 153h  
-- 🔎 Curso de Algoritmo de Empregabilidade – 16h  
-- 🐍 Curso de Python e Análise de Dados – Em andamento  
-- 🎓 Graduação em Cibersegurança – Início em breve  
+- 💻 Curso de Tecnologia da Informação 
+- 🐍 Curso de Python e Análise de Dados   
+- 🎓 Graduação em Cibersegurança – 1 Semestre  
 
 ---
 
